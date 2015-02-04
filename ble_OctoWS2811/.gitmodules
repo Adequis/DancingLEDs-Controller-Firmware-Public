@@ -1,0 +1,11 @@
+[submodule "nrf8001_arm_support_new"]
+	path = nrf8001_arm_support_new
+[submodule "SPI"]
+	path = SPI
+	url = https://github.com/PaulStoffregen/SPI
+[submodule "TimerThree"]
+	path = TimerThree
+	url = https://github.com/PaulStoffregen/TimerThree
+[submodule "OctoWS2811"]
+	path = "OctoWS2811"
+	url = https://github.com/PaulStoffregen/OctoWS2811
