@@ -1,3 +1,6 @@
+#ifndef DEFAULTPALETTE_H
+#define DEFAULTPALETTE_H
+
 const int defaultPalette[216] = {
                                     0x000000, // 0
                                     0x300000, // 1
@@ -224,6 +227,7 @@ const int ChristmasColors[5] = {
                                  0x0202C0, // blue
                                  0x808080  // white
                                };
+                               
 const int ValentinesColors[5] = {
                                   0xFF84C7, // pink
                                   0xFF0404, // red
@@ -377,3 +381,4 @@ const int solidColorArray[8] = {
    0xff0000, 0x00ff00, 0x0000ff, 0x808000, 0x800080, 0x008080, 0xA04000, 0x606060
 };
 
+#endif

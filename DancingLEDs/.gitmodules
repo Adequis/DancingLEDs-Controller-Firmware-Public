@@ -9,3 +9,9 @@
 [submodule "OctoWS2811"]
 	path = "OctoWS2811"
 	url = https://github.com/PaulStoffregen/OctoWS2811
+[submodule "Time"]
+	path = "Time"
+	url = https://github.com/PaulStoffregen/Time
+[submodule "TimeAlarms"]
+	path = "TimeAlarms"
+	url = https://github.com/PaulStoffregen/TimeAlarms
